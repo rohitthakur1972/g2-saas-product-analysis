@@ -1,0 +1,5 @@
+Company_Size_Segment,Valid_Rating_Count,Average_Rating,Median_Rating,Five_Star_Percentage,Low_Rating_Percentage
+Small business,45289,4.39,4.5,47.66,3.03
+Mid-market,39176,4.39,4.5,46.74,2.87
+Enterprise,17643,4.35,4.5,45.38,3.69
+Unknown,7112,4.51,5.0,51.45,0.96

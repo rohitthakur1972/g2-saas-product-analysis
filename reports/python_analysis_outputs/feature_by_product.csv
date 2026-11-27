@@ -1,0 +1,793 @@
+product_slug,product_name_clean,Feature_Review_Count,Feature_Category
+notion,notion,1666,AI capabilities
+clickup,clickup,334,AI capabilities
+canva,canva,328,AI capabilities
+jasper-ai,jasper,274,AI capabilities
+instantly,instantly,262,AI capabilities
+asana,asana,218,AI capabilities
+fin-by-intercom,fin by intercom,218,AI capabilities
+zoom-workplace,zoom workplace,210,AI capabilities
+lemlist,lemlist,197,AI capabilities
+apollo-io,apollo.io,189,AI capabilities
+agentforce-sales-formerly-salesforce-sales-cloud,agentforce sales (formerly salesforce sales cloud),188,AI capabilities
+slack,slack,179,AI capabilities
+hubspot-marketing-hub,hubspot marketing hub,169,AI capabilities
+zapier,zapier,145,AI capabilities
+responsive-formerly-rfpio,"responsive, formerly rfpio",135,AI capabilities
+samsara,samsara,134,AI capabilities
+attentive,attentive,123,AI capabilities
+hubspot-sales-hub,hubspot sales hub,123,AI capabilities
+zendesk-for-customer-service,zendesk for customer service,103,AI capabilities
+sap-concur,sap concur,101,AI capabilities
+monday-com,monday ai work platform,99,AI capabilities
+microsoft-teams,microsoft teams,94,AI capabilities
+navattic,navattic,93,AI capabilities
+airtable,airtable,88,AI capabilities
+reply,reply,87,AI capabilities
+g2,g2 marketing solutions,85,AI capabilities
+motive-technologies,motive,83,AI capabilities
+close,close,78,AI capabilities
+servicenow-it-service-management,servicenow it service management,76,AI capabilities
+applied-epic,applied epic,75,AI capabilities
+freshdesk,freshdesk,74,AI capabilities
+gusto,gusto,73,AI capabilities
+figma,figma,72,AI capabilities
+monday-com,monday work management,70,AI capabilities
+rippling,rippling,66,AI capabilities
+smartsheet,smartsheet,66,AI capabilities
+waalaxy,waalaxy,65,AI capabilities
+bill-ap-ar,bill ap/ar,61,AI capabilities
+cloudtalk,cloudtalk,56,AI capabilities
+foxit-pdf-editor,foxit pdf editor,54,AI capabilities
+jira,jira,51,AI capabilities
+paylocity,paylocity,50,AI capabilities
+zoho-crm,zoho crm,47,AI capabilities
+employment-hero,employment hero,46,AI capabilities
+maintainx,maintainx,45,AI capabilities
+navan-formerly-tripactions,navan (formerly tripactions),43,AI capabilities
+shopify,shopify,43,AI capabilities
+consensus,consensus,42,AI capabilities
+knowbe4-security-awareness-training,knowbe4 security awareness training,42,AI capabilities
+bamboohr,bamboohr,32,AI capabilities
+kudos,kudos,30,AI capabilities
+workday-hcm,workday hcm,30,AI capabilities
+pandadoc,pandadoc,27,AI capabilities
+deel-payroll,deel payroll,25,AI capabilities
+assembly-by-quantum-workplace,assembly by quantum workplace,23,AI capabilities
+laserfiche,laserfiche,20,AI capabilities
+paycom,paycom,19,AI capabilities
+perk-formerly-travelperk,perk (formerly travelperk),17,AI capabilities
+creately,creately,16,AI capabilities
+microsoft-sharepoint,microsoft sharepoint,14,AI capabilities
+yodeck,yodeck,12,AI capabilities
+zoho-expense,zoho expense,12,AI capabilities
+autocad,autocad,11,AI capabilities
+okta,okta,11,AI capabilities
+trello,trello,11,AI capabilities
+appy-pie,appy pie,10,AI capabilities
+paypal,paypal payments,10,AI capabilities
+salesforce-spiff,salesforce spiff,9,AI capabilities
+fin,fin,8,AI capabilities
+1password,1password,7,AI capabilities
+xactly,xactly,7,AI capabilities
+action1,action1,6,AI capabilities
+awardco,awardco,6,AI capabilities
+everstage,everstage,4,AI capabilities
+nectar,nectar,4,AI capabilities
+woocommerce,woocommerce,4,AI capabilities
+captivateiq,captivateiq,3,AI capabilities
+qobra,qobra,2,AI capabilities
+square-point-of-sale,square point of sale,2,AI capabilities
+zapier,zapier,547,Automation
+hubspot-marketing-hub,hubspot marketing hub,393,Automation
+waalaxy,waalaxy,378,Automation
+airtable,airtable,367,Automation
+monday-com,monday work management,364,Automation
+reply,reply,360,Automation
+smartsheet,smartsheet,326,Automation
+agentforce-sales-formerly-salesforce-sales-cloud,agentforce sales (formerly salesforce sales cloud),312,Automation
+clickup,clickup,303,Automation
+hubspot-sales-hub,hubspot sales hub,280,Automation
+lemlist,lemlist,277,Automation
+apollo-io,apollo.io,241,Automation
+instantly,instantly,229,Automation
+asana,asana,227,Automation
+zendesk-for-customer-service,zendesk for customer service,227,Automation
+freshdesk,freshdesk,225,Automation
+sap-concur,sap concur,225,Automation
+notion,notion,200,Automation
+action1,action1,182,Automation
+servicenow-it-service-management,servicenow it service management,178,Automation
+laserfiche,laserfiche,164,Automation
+zoho-crm,zoho crm,162,Automation
+rippling,rippling,154,Automation
+gusto,gusto,132,Automation
+jira,jira,121,Automation
+bill-ap-ar,bill ap/ar,105,Automation
+slack,slack,104,Automation
+attentive,attentive,101,Automation
+fin-by-intercom,fin by intercom,100,Automation
+monday-com,monday ai work platform,96,Automation
+close,close,90,Automation
+pandadoc,pandadoc,89,Automation
+trello,trello,87,Automation
+knowbe4-security-awareness-training,knowbe4 security awareness training,80,Automation
+salesforce-spiff,salesforce spiff,78,Automation
+everstage,everstage,72,Automation
+zoho-expense,zoho expense,64,Automation
+microsoft-sharepoint,microsoft sharepoint,59,Automation
+workday-hcm,workday hcm,59,Automation
+applied-epic,applied epic,58,Automation
+responsive-formerly-rfpio,"responsive, formerly rfpio",58,Automation
+xactly,xactly,55,Automation
+captivateiq,captivateiq,53,Automation
+employment-hero,employment hero,51,Automation
+qobra,qobra,51,Automation
+cloudtalk,cloudtalk,44,Automation
+paylocity,paylocity,43,Automation
+consensus,consensus,40,Automation
+okta,okta,40,Automation
+autocad,autocad,39,Automation
+navan-formerly-tripactions,navan (formerly tripactions),39,Automation
+deel-payroll,deel payroll,35,Automation
+navattic,navattic,30,Automation
+bamboohr,bamboohr,26,Automation
+woocommerce,woocommerce,24,Automation
+maintainx,maintainx,22,Automation
+shopify,shopify,21,Automation
+microsoft-teams,microsoft teams,20,Automation
+paypal,paypal payments,19,Automation
+perk-formerly-travelperk,perk (formerly travelperk),19,Automation
+samsara,samsara,17,Automation
+g2,g2 marketing solutions,16,Automation
+1password,1password,13,Automation
+wellable,wellable,13,Automation
+yodeck,yodeck,13,Automation
+square-point-of-sale,square point of sale,12,Automation
+zoom-workplace,zoom workplace,12,Automation
+figma,figma,11,Automation
+paycom,paycom,11,Automation
+canva,canva,9,Automation
+jasper-ai,jasper,9,Automation
+assembly-by-quantum-workplace,assembly by quantum workplace,7,Automation
+awardco,awardco,6,Automation
+motive-technologies,motive,6,Automation
+appy-pie,appy pie,5,Automation
+foxit-pdf-editor,foxit pdf editor,4,Automation
+kudos,kudos,4,Automation
+nectar,nectar,4,Automation
+creately,creately,3,Automation
+fin,fin,3,Automation
+notion,notion,631,Collaboration
+slack,slack,602,Collaboration
+microsoft-teams,microsoft teams,518,Collaboration
+smartsheet,smartsheet,511,Collaboration
+microsoft-sharepoint,microsoft sharepoint,490,Collaboration
+figma,figma,486,Collaboration
+zoom-workplace,zoom workplace,475,Collaboration
+asana,asana,386,Collaboration
+jira,jira,236,Collaboration
+airtable,airtable,210,Collaboration
+trello,trello,202,Collaboration
+responsive-formerly-rfpio,"responsive, formerly rfpio",172,Collaboration
+clickup,clickup,164,Collaboration
+monday-com,monday work management,157,Collaboration
+canva,canva,138,Collaboration
+1password,1password,130,Collaboration
+creately,creately,103,Collaboration
+consensus,consensus,102,Collaboration
+agentforce-sales-formerly-salesforce-sales-cloud,agentforce sales (formerly salesforce sales cloud),88,Collaboration
+autocad,autocad,79,Collaboration
+nectar,nectar,68,Collaboration
+assembly-by-quantum-workplace,assembly by quantum workplace,62,Collaboration
+kudos,kudos,56,Collaboration
+freshdesk,freshdesk,54,Collaboration
+pandadoc,pandadoc,42,Collaboration
+zendesk-for-customer-service,zendesk for customer service,42,Collaboration
+monday-com,monday ai work platform,37,Collaboration
+hubspot-marketing-hub,hubspot marketing hub,34,Collaboration
+zoho-crm,zoho crm,32,Collaboration
+servicenow-it-service-management,servicenow it service management,31,Collaboration
+paypal,paypal payments,30,Collaboration
+g2,g2 marketing solutions,29,Collaboration
+navattic,navattic,29,Collaboration
+foxit-pdf-editor,foxit pdf editor,28,Collaboration
+hubspot-sales-hub,hubspot sales hub,25,Collaboration
+laserfiche,laserfiche,17,Collaboration
+workday-hcm,workday hcm,16,Collaboration
+bamboohr,bamboohr,13,Collaboration
+applied-epic,applied epic,10,Collaboration
+attentive,attentive,10,Collaboration
+cloudtalk,cloudtalk,10,Collaboration
+reply,reply,10,Collaboration
+apollo-io,apollo.io,9,Collaboration
+captivateiq,captivateiq,9,Collaboration
+fin-by-intercom,fin by intercom,8,Collaboration
+maintainx,maintainx,8,Collaboration
+navan-formerly-tripactions,navan (formerly tripactions),8,Collaboration
+paylocity,paylocity,8,Collaboration
+bill-ap-ar,bill ap/ar,7,Collaboration
+close,close,7,Collaboration
+employment-hero,employment hero,7,Collaboration
+everstage,everstage,7,Collaboration
+sap-concur,sap concur,7,Collaboration
+yodeck,yodeck,7,Collaboration
+okta,okta,6,Collaboration
+samsara,samsara,6,Collaboration
+xactly,xactly,6,Collaboration
+action1,action1,5,Collaboration
+awardco,awardco,5,Collaboration
+instantly,instantly,5,Collaboration
+rippling,rippling,5,Collaboration
+salesforce-spiff,salesforce spiff,5,Collaboration
+wellable,wellable,5,Collaboration
+zapier,zapier,5,Collaboration
+gusto,gusto,4,Collaboration
+jasper-ai,jasper,4,Collaboration
+waalaxy,waalaxy,4,Collaboration
+zoho-expense,zoho expense,4,Collaboration
+appy-pie,appy pie,3,Collaboration
+knowbe4-security-awareness-training,knowbe4 security awareness training,3,Collaboration
+motive-technologies,motive,3,Collaboration
+perk-formerly-travelperk,perk (formerly travelperk),3,Collaboration
+shopify,shopify,3,Collaboration
+woocommerce,woocommerce,3,Collaboration
+deel-payroll,deel payroll,2,Collaboration
+lemlist,lemlist,2,Collaboration
+qobra,qobra,2,Collaboration
+notion,notion,723,Customisation
+agentforce-sales-formerly-salesforce-sales-cloud,agentforce sales (formerly salesforce sales cloud),404,Customisation
+clickup,clickup,336,Customisation
+shopify,shopify,260,Customisation
+jira,jira,239,Customisation
+airtable,airtable,218,Customisation
+woocommerce,woocommerce,214,Customisation
+canva,canva,208,Customisation
+monday-com,monday work management,200,Customisation
+servicenow-it-service-management,servicenow it service management,196,Customisation
+zoho-crm,zoho crm,196,Customisation
+smartsheet,smartsheet,189,Customisation
+hubspot-sales-hub,hubspot sales hub,180,Customisation
+zendesk-for-customer-service,zendesk for customer service,179,Customisation
+asana,asana,163,Customisation
+hubspot-marketing-hub,hubspot marketing hub,142,Customisation
+workday-hcm,workday hcm,131,Customisation
+trello,trello,127,Customisation
+navattic,navattic,118,Customisation
+autocad,autocad,113,Customisation
+freshdesk,freshdesk,113,Customisation
+pandadoc,pandadoc,112,Customisation
+microsoft-sharepoint,microsoft sharepoint,104,Customisation
+yodeck,yodeck,92,Customisation
+lemlist,lemlist,89,Customisation
+gusto,gusto,88,Customisation
+appy-pie,appy pie,86,Customisation
+maintainx,maintainx,86,Customisation
+slack,slack,85,Customisation
+laserfiche,laserfiche,84,Customisation
+fin-by-intercom,fin by intercom,83,Customisation
+rippling,rippling,80,Customisation
+consensus,consensus,78,Customisation
+sap-concur,sap concur,77,Customisation
+bamboohr,bamboohr,75,Customisation
+xactly,xactly,71,Customisation
+captivateiq,captivateiq,70,Customisation
+close,close,67,Customisation
+zoho-expense,zoho expense,65,Customisation
+attentive,attentive,64,Customisation
+employment-hero,employment hero,62,Customisation
+reply,reply,62,Customisation
+everstage,everstage,61,Customisation
+knowbe4-security-awareness-training,knowbe4 security awareness training,58,Customisation
+responsive-formerly-rfpio,"responsive, formerly rfpio",52,Customisation
+zapier,zapier,52,Customisation
+deel-payroll,deel payroll,50,Customisation
+figma,figma,49,Customisation
+paylocity,paylocity,49,Customisation
+applied-epic,applied epic,48,Customisation
+nectar,nectar,48,Customisation
+zoom-workplace,zoom workplace,48,Customisation
+cloudtalk,cloudtalk,47,Customisation
+navan-formerly-tripactions,navan (formerly tripactions),46,Customisation
+okta,okta,46,Customisation
+square-point-of-sale,square point of sale,46,Customisation
+monday-com,monday ai work platform,44,Customisation
+assembly-by-quantum-workplace,assembly by quantum workplace,43,Customisation
+kudos,kudos,42,Customisation
+salesforce-spiff,salesforce spiff,42,Customisation
+creately,creately,41,Customisation
+action1,action1,40,Customisation
+instantly,instantly,40,Customisation
+samsara,samsara,40,Customisation
+qobra,qobra,37,Customisation
+bill-ap-ar,bill ap/ar,36,Customisation
+waalaxy,waalaxy,36,Customisation
+wellable,wellable,36,Customisation
+perk-formerly-travelperk,perk (formerly travelperk),32,Customisation
+foxit-pdf-editor,foxit pdf editor,29,Customisation
+g2,g2 marketing solutions,29,Customisation
+paypal,paypal payments,27,Customisation
+awardco,awardco,25,Customisation
+1password,1password,24,Customisation
+microsoft-teams,microsoft teams,24,Customisation
+motive-technologies,motive,23,Customisation
+apollo-io,apollo.io,22,Customisation
+jasper-ai,jasper,16,Customisation
+paycom,paycom,13,Customisation
+fin,fin,4,Customisation
+gusto,gusto,1121,Ease of use
+notion,notion,1056,Ease of use
+rippling,rippling,970,Ease of use
+smartsheet,smartsheet,781,Ease of use
+canva,canva,770,Ease of use
+navan-formerly-tripactions,navan (formerly tripactions),752,Ease of use
+sap-concur,sap concur,687,Ease of use
+bamboohr,bamboohr,647,Ease of use
+slack,slack,645,Ease of use
+instantly,instantly,612,Ease of use
+pandadoc,pandadoc,584,Ease of use
+asana,asana,575,Ease of use
+captivateiq,captivateiq,575,Ease of use
+hubspot-marketing-hub,hubspot marketing hub,544,Ease of use
+hubspot-sales-hub,hubspot sales hub,541,Ease of use
+workday-hcm,workday hcm,541,Ease of use
+perk-formerly-travelperk,perk (formerly travelperk),526,Ease of use
+zoom-workplace,zoom workplace,522,Ease of use
+reply,reply,521,Ease of use
+lemlist,lemlist,519,Ease of use
+employment-hero,employment hero,517,Ease of use
+agentforce-sales-formerly-salesforce-sales-cloud,agentforce sales (formerly salesforce sales cloud),501,Ease of use
+maintainx,maintainx,490,Ease of use
+yodeck,yodeck,485,Ease of use
+paylocity,paylocity,482,Ease of use
+nectar,nectar,478,Ease of use
+shopify,shopify,478,Ease of use
+autocad,autocad,466,Ease of use
+waalaxy,waalaxy,466,Ease of use
+samsara,samsara,461,Ease of use
+cloudtalk,cloudtalk,457,Ease of use
+monday-com,monday work management,455,Ease of use
+navattic,navattic,452,Ease of use
+foxit-pdf-editor,foxit pdf editor,447,Ease of use
+attentive,attentive,440,Ease of use
+airtable,airtable,431,Ease of use
+deel-payroll,deel payroll,426,Ease of use
+assembly-by-quantum-workplace,assembly by quantum workplace,414,Ease of use
+salesforce-spiff,salesforce spiff,408,Ease of use
+zendesk-for-customer-service,zendesk for customer service,400,Ease of use
+freshdesk,freshdesk,397,Ease of use
+creately,creately,384,Ease of use
+trello,trello,376,Ease of use
+clickup,clickup,373,Ease of use
+apollo-io,apollo.io,370,Ease of use
+square-point-of-sale,square point of sale,369,Ease of use
+wellable,wellable,364,Ease of use
+microsoft-teams,microsoft teams,355,Ease of use
+zoho-crm,zoho crm,351,Ease of use
+qobra,qobra,350,Ease of use
+applied-epic,applied epic,349,Ease of use
+consensus,consensus,344,Ease of use
+figma,figma,344,Ease of use
+awardco,awardco,343,Ease of use
+paycom,paycom,343,Ease of use
+zoho-expense,zoho expense,343,Ease of use
+bill-ap-ar,bill ap/ar,341,Ease of use
+action1,action1,336,Ease of use
+motive-technologies,motive,328,Ease of use
+zapier,zapier,323,Ease of use
+close,close,322,Ease of use
+appy-pie,appy pie,317,Ease of use
+everstage,everstage,311,Ease of use
+1password,1password,299,Ease of use
+okta,okta,299,Ease of use
+servicenow-it-service-management,servicenow it service management,299,Ease of use
+paypal,paypal payments,294,Ease of use
+responsive-formerly-rfpio,"responsive, formerly rfpio",289,Ease of use
+jira,jira,288,Ease of use
+woocommerce,woocommerce,279,Ease of use
+xactly,xactly,265,Ease of use
+kudos,kudos,260,Ease of use
+laserfiche,laserfiche,255,Ease of use
+g2,g2 marketing solutions,254,Ease of use
+microsoft-sharepoint,microsoft sharepoint,242,Ease of use
+fin-by-intercom,fin by intercom,229,Ease of use
+knowbe4-security-awareness-training,knowbe4 security awareness training,213,Ease of use
+jasper-ai,jasper,146,Ease of use
+monday-com,monday ai work platform,82,Ease of use
+fin,fin,4,Ease of use
+notion,notion,768,Integrations
+slack,slack,727,Integrations
+zapier,zapier,520,Integrations
+agentforce-sales-formerly-salesforce-sales-cloud,agentforce sales (formerly salesforce sales cloud),470,Integrations
+microsoft-teams,microsoft teams,390,Integrations
+hubspot-marketing-hub,hubspot marketing hub,381,Integrations
+clickup,clickup,352,Integrations
+hubspot-sales-hub,hubspot sales hub,345,Integrations
+asana,asana,343,Integrations
+zoho-crm,zoho crm,328,Integrations
+airtable,airtable,326,Integrations
+jira,jira,318,Integrations
+cloudtalk,cloudtalk,307,Integrations
+shopify,shopify,307,Integrations
+reply,reply,299,Integrations
+sap-concur,sap concur,299,Integrations
+bill-ap-ar,bill ap/ar,293,Integrations
+zendesk-for-customer-service,zendesk for customer service,291,Integrations
+woocommerce,woocommerce,285,Integrations
+gusto,gusto,270,Integrations
+apollo-io,apollo.io,255,Integrations
+microsoft-sharepoint,microsoft sharepoint,253,Integrations
+zoom-workplace,zoom workplace,249,Integrations
+servicenow-it-service-management,servicenow it service management,248,Integrations
+smartsheet,smartsheet,248,Integrations
+okta,okta,247,Integrations
+lemlist,lemlist,244,Integrations
+rippling,rippling,243,Integrations
+pandadoc,pandadoc,240,Integrations
+monday-com,monday work management,220,Integrations
+1password,1password,219,Integrations
+freshdesk,freshdesk,209,Integrations
+instantly,instantly,201,Integrations
+attentive,attentive,196,Integrations
+close,close,193,Integrations
+workday-hcm,workday hcm,192,Integrations
+zoho-expense,zoho expense,182,Integrations
+navan-formerly-tripactions,navan (formerly tripactions),180,Integrations
+trello,trello,160,Integrations
+fin-by-intercom,fin by intercom,159,Integrations
+applied-epic,applied epic,157,Integrations
+yodeck,yodeck,148,Integrations
+consensus,consensus,147,Integrations
+bamboohr,bamboohr,145,Integrations
+salesforce-spiff,salesforce spiff,141,Integrations
+paylocity,paylocity,135,Integrations
+g2,g2 marketing solutions,134,Integrations
+wellable,wellable,134,Integrations
+autocad,autocad,133,Integrations
+employment-hero,employment hero,132,Integrations
+waalaxy,waalaxy,128,Integrations
+laserfiche,laserfiche,127,Integrations
+figma,figma,122,Integrations
+canva,canva,116,Integrations
+navattic,navattic,116,Integrations
+paypal,paypal payments,104,Integrations
+knowbe4-security-awareness-training,knowbe4 security awareness training,102,Integrations
+perk-formerly-travelperk,perk (formerly travelperk),101,Integrations
+captivateiq,captivateiq,99,Integrations
+action1,action1,97,Integrations
+everstage,everstage,91,Integrations
+maintainx,maintainx,89,Integrations
+foxit-pdf-editor,foxit pdf editor,84,Integrations
+square-point-of-sale,square point of sale,84,Integrations
+samsara,samsara,83,Integrations
+responsive-formerly-rfpio,"responsive, formerly rfpio",78,Integrations
+xactly,xactly,77,Integrations
+assembly-by-quantum-workplace,assembly by quantum workplace,74,Integrations
+qobra,qobra,71,Integrations
+motive-technologies,motive,66,Integrations
+nectar,nectar,62,Integrations
+creately,creately,55,Integrations
+monday-com,monday ai work platform,49,Integrations
+appy-pie,appy pie,48,Integrations
+deel-payroll,deel payroll,43,Integrations
+kudos,kudos,43,Integrations
+jasper-ai,jasper,38,Integrations
+awardco,awardco,26,Integrations
+paycom,paycom,17,Integrations
+fin,fin,8,Integrations
+sap-concur,sap concur,358,Mobile experience
+notion,notion,194,Mobile experience
+1password,1password,178,Mobile experience
+slack,slack,137,Mobile experience
+navan-formerly-tripactions,navan (formerly tripactions),132,Mobile experience
+okta,okta,129,Mobile experience
+cloudtalk,cloudtalk,117,Mobile experience
+maintainx,maintainx,114,Mobile experience
+gusto,gusto,108,Mobile experience
+appy-pie,appy pie,96,Mobile experience
+clickup,clickup,93,Mobile experience
+canva,canva,92,Mobile experience
+workday-hcm,workday hcm,91,Mobile experience
+zoho-expense,zoho expense,89,Mobile experience
+rippling,rippling,84,Mobile experience
+zoho-crm,zoho crm,76,Mobile experience
+figma,figma,73,Mobile experience
+agentforce-sales-formerly-salesforce-sales-cloud,agentforce sales (formerly salesforce sales cloud),64,Mobile experience
+asana,asana,64,Mobile experience
+square-point-of-sale,square point of sale,64,Mobile experience
+bamboohr,bamboohr,62,Mobile experience
+microsoft-teams,microsoft teams,62,Mobile experience
+everstage,everstage,58,Mobile experience
+zoom-workplace,zoom workplace,58,Mobile experience
+paylocity,paylocity,57,Mobile experience
+airtable,airtable,55,Mobile experience
+perk-formerly-travelperk,perk (formerly travelperk),54,Mobile experience
+deel-payroll,deel payroll,53,Mobile experience
+apollo-io,apollo.io,52,Mobile experience
+trello,trello,52,Mobile experience
+navattic,navattic,51,Mobile experience
+smartsheet,smartsheet,44,Mobile experience
+freshdesk,freshdesk,43,Mobile experience
+samsara,samsara,42,Mobile experience
+close,close,36,Mobile experience
+employment-hero,employment hero,36,Mobile experience
+qobra,qobra,35,Mobile experience
+shopify,shopify,34,Mobile experience
+paypal,paypal payments,33,Mobile experience
+captivateiq,captivateiq,32,Mobile experience
+monday-com,monday work management,32,Mobile experience
+salesforce-spiff,salesforce spiff,32,Mobile experience
+wellable,wellable,31,Mobile experience
+microsoft-sharepoint,microsoft sharepoint,30,Mobile experience
+pandadoc,pandadoc,29,Mobile experience
+foxit-pdf-editor,foxit pdf editor,28,Mobile experience
+hubspot-sales-hub,hubspot sales hub,28,Mobile experience
+jira,jira,28,Mobile experience
+kudos,kudos,27,Mobile experience
+paycom,paycom,27,Mobile experience
+yodeck,yodeck,27,Mobile experience
+zendesk-for-customer-service,zendesk for customer service,27,Mobile experience
+action1,action1,26,Mobile experience
+woocommerce,woocommerce,26,Mobile experience
+xactly,xactly,25,Mobile experience
+lemlist,lemlist,24,Mobile experience
+servicenow-it-service-management,servicenow it service management,23,Mobile experience
+attentive,attentive,22,Mobile experience
+instantly,instantly,22,Mobile experience
+nectar,nectar,22,Mobile experience
+motive-technologies,motive,20,Mobile experience
+assembly-by-quantum-workplace,assembly by quantum workplace,17,Mobile experience
+fin-by-intercom,fin by intercom,16,Mobile experience
+creately,creately,15,Mobile experience
+autocad,autocad,12,Mobile experience
+monday-com,monday ai work platform,12,Mobile experience
+bill-ap-ar,bill ap/ar,11,Mobile experience
+hubspot-marketing-hub,hubspot marketing hub,11,Mobile experience
+knowbe4-security-awareness-training,knowbe4 security awareness training,8,Mobile experience
+laserfiche,laserfiche,8,Mobile experience
+zapier,zapier,6,Mobile experience
+g2,g2 marketing solutions,5,Mobile experience
+reply,reply,5,Mobile experience
+applied-epic,applied epic,4,Mobile experience
+awardco,awardco,4,Mobile experience
+jasper-ai,jasper,4,Mobile experience
+responsive-formerly-rfpio,"responsive, formerly rfpio",3,Mobile experience
+consensus,consensus,2,Mobile experience
+fin,fin,1,Mobile experience
+waalaxy,waalaxy,1,Mobile experience
+notion,notion,507,Performance
+microsoft-teams,microsoft teams,315,Performance
+sap-concur,sap concur,308,Performance
+agentforce-sales-formerly-salesforce-sales-cloud,agentforce sales (formerly salesforce sales cloud),274,Performance
+clickup,clickup,273,Performance
+jira,jira,272,Performance
+workday-hcm,workday hcm,257,Performance
+everstage,everstage,209,Performance
+figma,figma,200,Performance
+zoom-workplace,zoom workplace,200,Performance
+autocad,autocad,199,Performance
+qobra,qobra,196,Performance
+canva,canva,188,Performance
+hubspot-marketing-hub,hubspot marketing hub,182,Performance
+slack,slack,181,Performance
+samsara,samsara,177,Performance
+smartsheet,smartsheet,171,Performance
+gusto,gusto,157,Performance
+salesforce-spiff,salesforce spiff,154,Performance
+servicenow-it-service-management,servicenow it service management,151,Performance
+bamboohr,bamboohr,147,Performance
+instantly,instantly,144,Performance
+captivateiq,captivateiq,143,Performance
+motive-technologies,motive,143,Performance
+cloudtalk,cloudtalk,142,Performance
+zendesk-for-customer-service,zendesk for customer service,141,Performance
+xactly,xactly,138,Performance
+microsoft-sharepoint,microsoft sharepoint,137,Performance
+hubspot-sales-hub,hubspot sales hub,131,Performance
+apollo-io,apollo.io,130,Performance
+lemlist,lemlist,130,Performance
+rippling,rippling,128,Performance
+applied-epic,applied epic,125,Performance
+zoho-crm,zoho crm,125,Performance
+employment-hero,employment hero,121,Performance
+reply,reply,118,Performance
+deel-payroll,deel payroll,114,Performance
+freshdesk,freshdesk,113,Performance
+shopify,shopify,108,Performance
+airtable,airtable,103,Performance
+asana,asana,102,Performance
+woocommerce,woocommerce,102,Performance
+paypal,paypal payments,101,Performance
+action1,action1,94,Performance
+pandadoc,pandadoc,92,Performance
+perk-formerly-travelperk,perk (formerly travelperk),90,Performance
+navan-formerly-tripactions,navan (formerly tripactions),86,Performance
+waalaxy,waalaxy,81,Performance
+paylocity,paylocity,79,Performance
+consensus,consensus,78,Performance
+foxit-pdf-editor,foxit pdf editor,78,Performance
+monday-com,monday work management,78,Performance
+attentive,attentive,72,Performance
+zapier,zapier,72,Performance
+okta,okta,70,Performance
+fin-by-intercom,fin by intercom,69,Performance
+g2,g2 marketing solutions,64,Performance
+navattic,navattic,60,Performance
+yodeck,yodeck,60,Performance
+responsive-formerly-rfpio,"responsive, formerly rfpio",59,Performance
+close,close,58,Performance
+paycom,paycom,58,Performance
+jasper-ai,jasper,51,Performance
+laserfiche,laserfiche,51,Performance
+trello,trello,51,Performance
+bill-ap-ar,bill ap/ar,48,Performance
+kudos,kudos,48,Performance
+creately,creately,44,Performance
+maintainx,maintainx,43,Performance
+square-point-of-sale,square point of sale,41,Performance
+nectar,nectar,39,Performance
+monday-com,monday ai work platform,34,Performance
+assembly-by-quantum-workplace,assembly by quantum workplace,33,Performance
+1password,1password,31,Performance
+appy-pie,appy pie,30,Performance
+awardco,awardco,29,Performance
+wellable,wellable,24,Performance
+knowbe4-security-awareness-training,knowbe4 security awareness training,23,Performance
+zoho-expense,zoho expense,23,Performance
+fin,fin,8,Performance
+sap-concur,sap concur,673,Reporting
+agentforce-sales-formerly-salesforce-sales-cloud,agentforce sales (formerly salesforce sales cloud),553,Reporting
+smartsheet,smartsheet,478,Reporting
+hubspot-marketing-hub,hubspot marketing hub,435,Reporting
+hubspot-sales-hub,hubspot sales hub,432,Reporting
+zendesk-for-customer-service,zendesk for customer service,314,Reporting
+jira,jira,313,Reporting
+captivateiq,captivateiq,297,Reporting
+xactly,xactly,297,Reporting
+gusto,gusto,294,Reporting
+clickup,clickup,281,Reporting
+workday-hcm,workday hcm,269,Reporting
+everstage,everstage,268,Reporting
+paylocity,paylocity,268,Reporting
+freshdesk,freshdesk,267,Reporting
+attentive,attentive,251,Reporting
+servicenow-it-service-management,servicenow it service management,250,Reporting
+samsara,samsara,234,Reporting
+asana,asana,230,Reporting
+salesforce-spiff,salesforce spiff,227,Reporting
+zoho-crm,zoho crm,227,Reporting
+zoho-expense,zoho expense,227,Reporting
+notion,notion,212,Reporting
+reply,reply,212,Reporting
+action1,action1,208,Reporting
+rippling,rippling,201,Reporting
+bamboohr,bamboohr,200,Reporting
+maintainx,maintainx,200,Reporting
+applied-epic,applied epic,198,Reporting
+cloudtalk,cloudtalk,188,Reporting
+instantly,instantly,187,Reporting
+lemlist,lemlist,183,Reporting
+airtable,airtable,168,Reporting
+knowbe4-security-awareness-training,knowbe4 security awareness training,165,Reporting
+consensus,consensus,156,Reporting
+shopify,shopify,152,Reporting
+navan-formerly-tripactions,navan (formerly tripactions),146,Reporting
+monday-com,monday work management,144,Reporting
+motive-technologies,motive,144,Reporting
+employment-hero,employment hero,131,Reporting
+g2,g2 marketing solutions,131,Reporting
+trello,trello,125,Reporting
+navattic,navattic,113,Reporting
+square-point-of-sale,square point of sale,107,Reporting
+bill-ap-ar,bill ap/ar,106,Reporting
+qobra,qobra,99,Reporting
+apollo-io,apollo.io,87,Reporting
+close,close,86,Reporting
+responsive-formerly-rfpio,"responsive, formerly rfpio",84,Reporting
+fin-by-intercom,fin by intercom,81,Reporting
+woocommerce,woocommerce,81,Reporting
+yodeck,yodeck,78,Reporting
+okta,okta,76,Reporting
+wellable,wellable,71,Reporting
+waalaxy,waalaxy,60,Reporting
+monday-com,monday ai work platform,55,Reporting
+pandadoc,pandadoc,55,Reporting
+perk-formerly-travelperk,perk (formerly travelperk),50,Reporting
+deel-payroll,deel payroll,49,Reporting
+laserfiche,laserfiche,37,Reporting
+paypal,paypal payments,35,Reporting
+slack,slack,35,Reporting
+autocad,autocad,34,Reporting
+paycom,paycom,34,Reporting
+assembly-by-quantum-workplace,assembly by quantum workplace,27,Reporting
+kudos,kudos,27,Reporting
+nectar,nectar,27,Reporting
+microsoft-sharepoint,microsoft sharepoint,25,Reporting
+zapier,zapier,23,Reporting
+canva,canva,22,Reporting
+foxit-pdf-editor,foxit pdf editor,21,Reporting
+appy-pie,appy pie,18,Reporting
+creately,creately,17,Reporting
+zoom-workplace,zoom workplace,16,Reporting
+awardco,awardco,15,Reporting
+1password,1password,13,Reporting
+figma,figma,11,Reporting
+microsoft-teams,microsoft teams,10,Reporting
+jasper-ai,jasper,9,Reporting
+fin,fin,5,Reporting
+knowbe4-security-awareness-training,knowbe4 security awareness training,420,Security
+okta,okta,368,Security
+1password,1password,309,Security
+paypal,paypal payments,162,Security
+gusto,gusto,156,Security
+deel-payroll,deel payroll,126,Security
+microsoft-sharepoint,microsoft sharepoint,119,Security
+sap-concur,sap concur,116,Security
+action1,action1,112,Security
+rippling,rippling,109,Security
+zoom-workplace,zoom workplace,85,Security
+workday-hcm,workday hcm,75,Security
+employment-hero,employment hero,68,Security
+responsive-formerly-rfpio,"responsive, formerly rfpio",65,Security
+motive-technologies,motive,63,Security
+laserfiche,laserfiche,57,Security
+slack,slack,49,Security
+samsara,samsara,48,Security
+paylocity,paylocity,47,Security
+shopify,shopify,45,Security
+woocommerce,woocommerce,44,Security
+notion,notion,43,Security
+microsoft-teams,microsoft teams,39,Security
+navan-formerly-tripactions,navan (formerly tripactions),37,Security
+smartsheet,smartsheet,35,Security
+agentforce-sales-formerly-salesforce-sales-cloud,agentforce sales (formerly salesforce sales cloud),34,Security
+servicenow-it-service-management,servicenow it service management,31,Security
+bill-ap-ar,bill ap/ar,25,Security
+foxit-pdf-editor,foxit pdf editor,24,Security
+attentive,attentive,23,Security
+zoho-expense,zoho expense,22,Security
+bamboohr,bamboohr,20,Security
+pandadoc,pandadoc,20,Security
+paycom,paycom,20,Security
+airtable,airtable,19,Security
+clickup,clickup,17,Security
+applied-epic,applied epic,16,Security
+jira,jira,15,Security
+zendesk-for-customer-service,zendesk for customer service,15,Security
+asana,asana,13,Security
+perk-formerly-travelperk,perk (formerly travelperk),12,Security
+appy-pie,appy pie,11,Security
+monday-com,monday work management,11,Security
+autocad,autocad,10,Security
+g2,g2 marketing solutions,10,Security
+maintainx,maintainx,10,Security
+zoho-crm,zoho crm,10,Security
+captivateiq,captivateiq,9,Security
+hubspot-sales-hub,hubspot sales hub,9,Security
+square-point-of-sale,square point of sale,9,Security
+trello,trello,9,Security
+apollo-io,apollo.io,8,Security
+waalaxy,waalaxy,8,Security
+fin-by-intercom,fin by intercom,7,Security
+freshdesk,freshdesk,7,Security
+nectar,nectar,6,Security
+xactly,xactly,6,Security
+yodeck,yodeck,6,Security
+consensus,consensus,5,Security
+figma,figma,5,Security
+lemlist,lemlist,5,Security
+wellable,wellable,5,Security
+zapier,zapier,5,Security
+hubspot-marketing-hub,hubspot marketing hub,4,Security
+assembly-by-quantum-workplace,assembly by quantum workplace,3,Security
+instantly,instantly,3,Security
+salesforce-spiff,salesforce spiff,3,Security
+canva,canva,2,Security
+cloudtalk,cloudtalk,2,Security
+creately,creately,2,Security
+navattic,navattic,2,Security
+reply,reply,2,Security
+everstage,everstage,1,Security
+kudos,kudos,1,Security
+monday-com,monday ai work platform,1,Security
+qobra,qobra,1,Security

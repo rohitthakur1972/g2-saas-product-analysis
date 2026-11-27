@@ -1,0 +1,12 @@
+Metric,Value
+Total review records,111441.0
+Distinct product identifiers (slug + cleaned name),80.0
+Valid 1–5 star ratings,109220.0
+Records excluded from rating metrics (<1 star),2221.0
+Overall average valid rating,4.39
+Overall median valid rating,4.5
+Five-star share of valid ratings,47.21
+"Low-rating share of valid ratings (1.0–2.0 stars, inclusive)",2.95
+Reviews with structured feedback,35137.0
+Incentivized reviews,70887.0
+Non-incentivized reviews,40554.0
